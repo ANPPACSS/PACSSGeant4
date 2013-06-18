@@ -1,0 +1,2 @@
+/home/micah/geant4/BEGe-build/CMakeFiles/BEGe.dir
+/home/micah/geant4/BEGe-build/CMakeFiles/BEGeSim.dir
